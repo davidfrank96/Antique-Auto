@@ -1284,13 +1284,14 @@ ul.nav.nav-pills {
 	margin-bottom: 1em;
 }
 .contact-form {
-    background: #00e0c3;
+    background: #3d5a56;
     padding: 2em 4em;
     position: absolute;
     width: 51%;
     top: 27%;
     z-index: 9999;
-    left: 25%;
+	left: 25%;
+	border-radius: 10px;
 }
 .form-left {
     padding-left: 0;
